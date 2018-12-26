@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 lab2 test
-=======
-lab2 test
-aaa
->>>>>>> br2
